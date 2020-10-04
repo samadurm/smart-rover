@@ -497,18 +497,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2884f6ff595dfa3c5ae39c6ce6f7373e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftFrontWheel: {fileID: 0}
-  leftMidWheel: {fileID: 0}
-  leftBackWheel: {fileID: 0}
-  rightFrontWheel: {fileID: 0}
-  rightMidWheel: {fileID: 0}
-  rightBackWheel: {fileID: 0}
-  leftFrontTf: {fileID: 0}
-  leftMidTf: {fileID: 0}
-  leftBackTf: {fileID: 0}
-  rightFrontTf: {fileID: 0}
-  rightMidTf: {fileID: 0}
-  rightBackTf: {fileID: 0}
+  speed: 6
+  controller: {fileID: 1314392893}
 --- !u!143 &1314392893
 CharacterController:
   m_ObjectHideFlags: 0
